@@ -5,6 +5,8 @@ A Python remake of the classic 1981 arcade game [Frogger](https://en.wikipedia.o
 ---
 
 ## Gameplay
+
+A gameplay recording is available in the `images/` folder (`gameplay.mp4`).
  
 - **Move** the frog using the arrow keys (←↑→↓)
 - **Avoid cars** on the road — getting hit costs a life
@@ -49,13 +51,12 @@ frogger/
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/frogger.git
+   git clone https://github.com/angz09/frogger.git
    cd frogger
 ```
 
 2. Activate your environment and install Pygame:
 ```bash
-   conda activate INF1007
    pip install pygame==2.6.0
 ```
 
