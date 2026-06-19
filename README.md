@@ -55,7 +55,7 @@ frogger/
    cd frogger
 ```
 
-2. Activate your environment and install Pygame:
+2. Install Pygame:
 ```bash
    pip install pygame==2.6.0
 ```
